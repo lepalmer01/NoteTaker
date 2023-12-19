@@ -1,5 +1,5 @@
 # NoteTaker
-This is a NoteTaker application that allows user to write, save and organize notes. The backend is built using Express.js and stores note data in a JSON file. The entire application has been deployed to Heroku. 
+This is a NoteTaker application that allows users to write, save and organize notes. The backend is built using Express.js and stores note data in a JSON file. The entire application has been deployed to Heroku. 
 
 
 ## Table of Contents
