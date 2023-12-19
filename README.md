@@ -14,7 +14,7 @@ This application is designed to provide a digital solution for individuals seeki
 
 
 ## Project Link 
-[Click here]() to checkout the deployed application!
+[Click here](https://calm-beyond-26898-3f161bbc3ff3.herokuapp.com/) to checkout the deployed application!
 
 <img src = "./public/assets/images/Screen Shot 2023-12-19 at 7.13.37 AM.png">
 
